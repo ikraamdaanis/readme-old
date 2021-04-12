@@ -14,22 +14,22 @@
 ## Languages and Tools:
 
 <p>
-<img alt="React" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;React_3de31a4ebb.svg" />
-<img alt="NPM" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;NPM_77cf223ba6.svg" />
-<img alt="Webpack" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Webpack_6a9b69444b.svg" />
-<img alt="Javascript" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Javascript_43c420cae7.svg" />
-<img alt="macOS" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;mac_OS_a5a8c693c2.svg" />
-<img alt="Prettier" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Prettier_bc0762ec9c.svg" />
-<img alt="ESLint" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;ES_Lint_3333214e22.svg" />
-<img alt="MongoDB" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Mongo_DB_30941addbf.svg" />
-<img alt="NodeJS" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Node_fd2e733759.svg" />
-<img alt="VSCode" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;VS_Code_e99e88ef63.svg" />
-<img alt="HTML" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;HTML_f229a9dcf6.svg" />
-<img alt="Sass" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Sass_eb8af33f43.svg" />
-<img alt="Typescript" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Typescript_ad00b590f7.svg" />
-<img alt="Git" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Git_6f68ecb146.svg" />
-<img alt="Firebase" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;firebase_301511e256.svg" />
-<img alt="StyledComponents" src="https:&#x2F;&#x2F;strapiportfolioimages.s3.eu-west-3.amazonaws.com&#x2F;Styled_Components_2564fdf81b.svg" />
+<img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" />
+<img alt="NPM" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/npm/npm-original-wordmark.svg" />
+<img alt="Webpack" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/webpack/webpack-original.svg" />
+<img alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" />
+<img alt="macOS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/apple/apple-original.svg" />
+<img alt="Prettier" width="40" height="40" src="https://cdn.jsdelivr.net/gh/prettier/prettier-logo@e638a708b41a176a46cfbbf9d3ed4910132df265/images/prettier-icon-clean-centred.svg" />
+<img alt="ESLint" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/eslint/eslint-original.svg" />
+<img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" />
+<img alt="NodeJS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" />
+<img alt="VSCode" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vscode/vscode-original.svg" />
+<img alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original.svg" />
+<img alt="Sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/sass/sass-original.svg" />
+<img alt="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" />
+<img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" />
+<img alt="Firebase" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-original.svg" />
+<img alt="StyledComponents" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/styledcomponents/styledcomponents-original.svg" />
 </p>
 
 [website]: https://ikraam.dev
